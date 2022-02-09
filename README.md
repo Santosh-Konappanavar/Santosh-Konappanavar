@@ -39,9 +39,9 @@ SaveCancel
 
 ### :heavy_minus_sign: My Github stats
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherahmed14&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=taherahmed14&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taherahmed14&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Konappanavar&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh-Konappanavar&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Konappanavar&theme=dracula">
 </p>
 
 
@@ -49,8 +49,8 @@ SaveCancel
 <!--<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />-->
 
 <!--### :heavy_minus_sign: Interested on my Story?
-When I graduated as a civil engineer, I never thought that I would be on the path to become a web developer. I started my career as a site engineer, then worked as a rebar detailer for the next 3 years.
-However, the job did not provide me the satisfaction that I was seeking for my career growth. This is when I came across the career option of web development and was immediately intrigued.
+When I graduated as a electronics engineer, I never thought that I would be on the path to become a web developer. I started my career as a network engineer, then worked as former  in my land for the next 2 years.
+However, the agriculture work did not provide me the satisfaction that I was seeking for my career growth. This is when I came across the career option of web development and was immediately intrigued.
 
 While I was exploring career paths on web development, I learned about Masai school and joined a 30-weeks full-time course on Full-Stack Web Development. Ever since, I became determined to learn new skills and frameworks. I was able to apply my learnings while developing projects and that became an enjoyable process.
 
@@ -60,10 +60,10 @@ With Masai school, I have developed my skills with hands-on experience on MERN s
 
 My previous work experience, combined with everything that I have learnt in the past few months has enhanced my skills in coordination, clear communication and decision making.
 
-My leisure interest include travelling, reading books, exploring movies and listening to music.
+My hobbies include travelling, reading books, exploring movies and listening to music.
 
 Looking forward to applying the acquired skills on solving intricate problems and making life much easier.
-Feel free to reach me at: taherahmed.sj.95@gmail.com.
+Feel free to reach me at: ssk21m@gmail.com.
 You can view my work at:-->
 
 
@@ -74,7 +74,7 @@ You can view my work at:-->
 
 
 <!--
-**taherahmed14/taherahmed14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Santosh-Konappanavar/Santosh-Konappanavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
