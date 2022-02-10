@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer Specialized in MERN Stack from India.
 
 <p>
 <a href="https://github.com/Santosh-Konappanavar/smallcases_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=smallcases.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
-<a href="https://github.com/Santosh-Konappanavar/Freshly.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly.com&color=00d09c&logo=GoldenLine&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
+<a href="https://github.com/Santosh-Konappanavar/Freshly.com" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly.com&color=00d09c&logoColor=FFFFFF&label=" alt="Freshly.com" /></a>
 <a href="https://github.com/Santosh-Konappanavar/Theskincare" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Theskincare&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
 </p>
 
