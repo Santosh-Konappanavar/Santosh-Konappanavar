@@ -1,6 +1,6 @@
 <h1>Hey you, I'm Santosh</h1>
 
-###### I'm a passionate Full Stack Developer Specialized in MERN Stack from India.
+##### I'm a passionate Full Stack Developer Specialized in MERN Stack from India.
 
 ![](https://komarev.com/ghpvc/?username=your-github-Santosh-Konappanavar&style=flat-square&label=Profile+Views)
 <img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
