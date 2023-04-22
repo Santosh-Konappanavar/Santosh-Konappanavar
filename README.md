@@ -1,12 +1,12 @@
-<h1>Hey you, I'm Santosh</h1>
+<h1>Hi there 👋, I'm Santosh</h1>
 
-#### I'm a passionate Full Stack Developer Specialized in MERN Stack from India.
+#### I'm a passionate Full Stack Developer specialising in MERN Stack from India.
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Santosh-Konappanavar&style=flat-square&label=Profile+Views)
 
 
-### :heavy_minus_sign: Interested on my skills?
+## 💻  Interested on my skills?
 <p>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
@@ -24,7 +24,7 @@
 
 </p>
 
-### :heavy_minus_sign: Interested on my top projects?
+###  🎭 Interested on my top projects?
 
 <p>
 <a href="https://github.com/Santosh-Konappanavar/smallcases_project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=smallcases.com&color=000000&logo=Nordstrom&logoColor=FFFFFF&label=" alt="smallcases.com"/></a>
@@ -32,13 +32,13 @@
 <a href="https://github.com/Santosh-Konappanavar/Theskincare" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Theskincare&color=000000&logo=thskincare&logoColor=FFFFFF&label=" alt="Theskincare"/></a>
 </p>
 
-### :heavy_minus_sign: Where to find me?
+### 🌐 Where to find me?
 <p> <a href="https://www.linkedin.com/in/santosh-konappanavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ssk21m"
 SaveCancel
 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-### :heavy_minus_sign: My Github stats
+### 📊  GitHub Stats:
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Konappanavar&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh-Konappanavar&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
